@@ -1,1 +1,2 @@
 # Amazon-Clone-Project-
+The "Amazon-Clone-Project" is a Frontend project that utilizes HTML and CSS exclusively. Before beginning the project, it is essential to link your HTML file to the Font Awesome library hosted at "https://cdnjs.com/libraries/font-awesome" to leverage its icon set. This library provides scalable vector icons that can be customized with CSS for your project's visual enhancements.
